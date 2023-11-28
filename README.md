@@ -4,7 +4,7 @@
 
 The Graph is a **decentralized indexing protocol** for blockchain datas. It is designed to enable querying on the Ethereum network. TheGraph network also enables developers to build various APIs known as **subgraphs** to customize their data queries.
 
-In this courses you will learn how to create your own Subgraph and how to query blockchain datas with your Subgraph.
+_In this courses you will learn how to create your own Subgraph and how to query blockchain datas with your Subgraph._
 
 ![](./img/theGraphLogo.jpeg)
 
