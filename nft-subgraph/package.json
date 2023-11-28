@@ -1,0 +1,20 @@
+{
+  "name": "learning",
+  "license": "UNLICENSED",
+  "scripts": {
+    "codegen": "graph codegen",
+    "build": "graph build",
+    "deploy": "graph deploy --node https://api.thegraph.com/deploy/ sparadrap1101/learn-thegraph",
+    "create-local": "graph create --node http://192.168.56.10:8020/ my-subgraph",
+    "remove-local": "graph remove --node http://192.168.56.10:8020/ my-subgraph",
+    "deploy-local": "graph deploy --node http://192.168.56.10:8020/ --ipfs http://192.168.56.10:5001 my-subgraph",
+    "test": "graph test"
+  },
+  "dependencies": {
+    "@graphprotocol/graph-cli": "0.43.0",
+    "@graphprotocol/graph-ts": "0.29.1"
+  },
+  "devDependencies": {
+    "matchstick-as": "0.5.0"
+  }
+}

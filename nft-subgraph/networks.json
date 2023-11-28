@@ -1,0 +1,8 @@
+{
+  "mumbai": {
+    "SomeNFT": {
+      "address": "0x254Df466B9E09C268ca377428AE4Ead7F7D6Ba22",
+      "startBlock": 32000000
+    }
+  }
+}
